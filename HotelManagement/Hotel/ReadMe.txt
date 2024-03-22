@@ -1,5 +1,4 @@
-Table userHT không sử dụng trong project này nên có thể xóa đi
-Username và password mặc định sau khi được mã hóa là admin
+
 
 Query SQL:
 
